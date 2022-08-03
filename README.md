@@ -22,3 +22,7 @@ video of show the project python trignometry
 
 https://user-images.githubusercontent.com/95116379/182530504-9e2ea8cb-d5af-4bf1-ab12-a1c06517b21c.mp4
 
+preview of 3d rotating cube in python
+
+https://user-images.githubusercontent.com/95116379/182534995-08d5a880-290b-4ea3-9df4-afadd4c1cd26.mp4
+
