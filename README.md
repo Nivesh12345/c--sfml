@@ -7,3 +7,5 @@ https://user-images.githubusercontent.com/95116379/182529867-5bb7be2e-61bb-452f-
 
 
 video of show the project c++ trignometry
+
+
