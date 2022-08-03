@@ -2,11 +2,15 @@
 video of show the project c++ trignometry
 
 
-https://user-images.githubusercontent.com/95116379/182529867-5bb7be2e-61bb-452f-9c6e-32f1adb12c2f.mp4
 
 
 
-video of show the project c++ trignometry
+https://user-images.githubusercontent.com/95116379/182530799-cd352d59-83d6-45ea-9b87-1a5014500cb2.mp4
+
+
+
+
+video of show the project python trignometry
 
 
 
