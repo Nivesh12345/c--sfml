@@ -2,6 +2,8 @@
 to install sfml link of youtube channel is
 https://www.youtube.com/watch?v=neIoDQ71yb0
 
+
+to install pygame write command in terminal: pip install pygame
 video of show the project c++ trignometry
 
 
